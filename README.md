@@ -2,7 +2,7 @@
 Some helpful scripts for slurm
 # How To Use
 1. `chmod +x ./*`
-2. `./install.sh` for bash or `.install_zsh.sh` for zsh
+2. `./install.sh` for bash or `./install_zsh.sh` for zsh
 2. `your_command`
 
 
