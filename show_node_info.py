@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 import subprocess
 import re
 def get_all_node_names():
